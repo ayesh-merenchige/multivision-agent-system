@@ -235,7 +235,7 @@ multivisions/
 
 ## 📸 Screenshots
 
-| Landing | Chat | Dashboard | Admin |
+| Chat | Dashboard | Admin |
 |---|---|---|---|
 | ![Chat](docs/screenshots/chat.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Admin](docs/screenshots/admin.png) |
 
