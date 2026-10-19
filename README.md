@@ -236,7 +236,7 @@ multivisions/
 ## 📸 Screenshots
 
 | Chat | Dashboard | Admin |
-|---|---|---|---|
+|---|---|---|
 | ![Chat](docs/screenshots/chat.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Admin](docs/screenshots/admin.png) |
 
 ---
