@@ -1,0 +1,15 @@
+{
+  "name": "Multivisions Pvt Ltd",
+  "tagline": "Updated tagline",
+  "description": "Multivisions provides cutting-edge technology products — from IoT smart-home hubs to enterprise networking — helping businesses and homes stay connected, secure, and efficient.",
+  "email": "hello@multivisions.com",
+  "phone": "+91-9876501234",
+  "address": "123 Business Park, Tech City, India",
+  "website": "https://multivisions.com",
+  "working_hours": "Mon-Fri 9:00-18:00",
+  "socials": {
+    "linkedin": "https://linkedin.com/company/multivisions",
+    "twitter": "https://twitter.com/multivisions",
+    "facebook": "https://facebook.com/multivisions"
+  }
+}

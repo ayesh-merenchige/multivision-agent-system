@@ -1,0 +1,31 @@
+# Env / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# SQLite
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Data dir locks
+*.lock
+
+# Node / Next
+node_modules/
+.next/
+out/
+npm-lock.json
+yarn.lock
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,20 @@
+{
+  "tiers": [
+    {
+      "name": "standard",
+      "min_qty": 1,
+      "discount_pct": 0.0
+    },
+    {
+      "name": "bulk",
+      "min_qty": 50,
+      "discount_pct": 10.0
+    },
+    {
+      "name": "enterprise",
+      "min_qty": 200,
+      "discount_pct": 20.0
+    }
+  ],
+  "tax_pct": 7.0
+}

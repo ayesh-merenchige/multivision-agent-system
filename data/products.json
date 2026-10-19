@@ -1,0 +1,162 @@
+[
+  {
+    "id": "P001",
+    "name": "Smart Hub X1",
+    "category": "IoT Devices",
+    "description": "Central control hub for home automation. Connects lights, locks, and sensors in one app.",
+    "price": 249.99,
+    "currency": "USD",
+    "stock": 120,
+    "image_url": "",
+    "tags": [
+      "iot",
+      "smart-home",
+      "hub"
+    ],
+    "active": true
+  },
+  {
+    "id": "P002",
+    "name": "Sensor Mesh Kit",
+    "category": "IoT Devices",
+    "description": "Six-piece wireless sensor kit for temperature, motion, and door monitoring.",
+    "price": 89.5,
+    "currency": "USD",
+    "stock": 200,
+    "image_url": "",
+    "tags": [
+      "iot",
+      "sensors",
+      "security"
+    ],
+    "active": true
+  },
+  {
+    "id": "P003",
+    "name": "VisionCam Pro",
+    "category": "Security",
+    "description": "4K indoor/outdoor security camera with night vision and AI motion alerts.",
+    "price": 129.0,
+    "currency": "USD",
+    "stock": 75,
+    "image_url": "",
+    "tags": [
+      "security",
+      "camera",
+      "4k"
+    ],
+    "active": true
+  },
+  {
+    "id": "P004",
+    "name": "DoorLock S2",
+    "category": "Security",
+    "description": "Fingerprint + PIN smart door lock with auto-lock and access logs.",
+    "price": 199.0,
+    "currency": "USD",
+    "stock": 40,
+    "image_url": "",
+    "tags": [
+      "security",
+      "lock",
+      "fingerprint"
+    ],
+    "active": true
+  },
+  {
+    "id": "P005",
+    "name": "NetSwitch 8",
+    "category": "Networking",
+    "description": "8-port Gigabit PoE+ switch for IP cameras and access points.",
+    "price": 149.99,
+    "currency": "USD",
+    "stock": 90,
+    "image_url": "",
+    "tags": [
+      "networking",
+      "switch",
+      "poe"
+    ],
+    "active": true
+  },
+  {
+    "id": "P006",
+    "name": "AccessPoint AX",
+    "category": "Networking",
+    "description": "Wi-Fi 6 ceiling access point for offices up to 500 sq. m.",
+    "price": 119.0,
+    "currency": "USD",
+    "stock": 150,
+    "image_url": "",
+    "tags": [
+      "networking",
+      "wifi6",
+      "office"
+    ],
+    "active": true
+  },
+  {
+    "id": "P007",
+    "name": "PowerVault UPS 1kVA",
+    "category": "Power",
+    "description": "Uninterruptible power supply for routers, hubs, and small servers.",
+    "price": 229.0,
+    "currency": "USD",
+    "stock": 60,
+    "image_url": "",
+    "tags": [
+      "power",
+      "ups",
+      "backup"
+    ],
+    "active": true
+  },
+  {
+    "id": "P008",
+    "name": "CableKit Cat6 305m",
+    "category": "Networking",
+    "description": "Outdoor-rated Cat6 UTP cable spool, 305 m, for long runs.",
+    "price": 109.0,
+    "currency": "USD",
+    "stock": 30,
+    "image_url": "",
+    "tags": [
+      "networking",
+      "cable",
+      "cat6"
+    ],
+    "active": true
+  },
+  {
+    "id": "P009",
+    "name": "Thermostat Eco T3",
+    "category": "IoT Devices",
+    "description": "Learning thermostat with scheduling and energy reports.",
+    "price": 139.99,
+    "currency": "USD",
+    "stock": 0,
+    "image_url": "",
+    "tags": [
+      "iot",
+      "thermostat",
+      "energy"
+    ],
+    "active": false
+  },
+  {
+    "id": "P010",
+    "name": "Intercom Desk Station",
+    "category": "Security",
+    "description": "IP desk intercom for offices with PoE and mobile app.",
+    "price": 179.0,
+    "currency": "USD",
+    "stock": 55,
+    "image_url": "",
+    "tags": [
+      "security",
+      "intercom",
+      "office"
+    ],
+    "active": true
+  }
+]
