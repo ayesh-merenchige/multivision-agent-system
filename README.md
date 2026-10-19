@@ -237,7 +237,7 @@ multivisions/
 
 | Landing | Chat | Dashboard | Admin |
 |---|---|---|---|
-| ![Landing](docs/screenshots/landing.png) | ![Chat](docs/screenshots/chat.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Admin](docs/screenshots/admin.png) |
+| ![Chat](docs/screenshots/chat.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Admin](docs/screenshots/admin.png) |
 
 ---
 
